@@ -1,3 +1,7 @@
+/*
+https://leetcode.com/problems/valid-parentheses/
+runtime: O^n
+*/
 class Solution {
     public boolean isValid(String s) {
         if(s.length() < 2){
